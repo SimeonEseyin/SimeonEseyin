@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SimeonEseyin
 - 👀 I’m interested in and talk about Artificial Intelligence | Data Science | Cloud Computing | Machine Learning | Unix | K8s | Python | OCI
-- 🌱 I’m currently learning OCI | Data Science | Cloud Infrastructure Design
+- 🌱 I’m currently learning OCI | Data Science | Cloud Infrastructure Design | OOP
 - 💞️ I’m looking to collaborate on projects related to Computer Vision, Augumented Reality, Predictive Modelling, and Neural Networks...
 - 📫 Connect with me on LinkedIn https://www.linkedin.com/in/simeon-eseyin
